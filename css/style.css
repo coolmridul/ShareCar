@@ -1,0 +1,41 @@
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+body{
+  font-family: 'Montserrat',sans-serif;
+}
+
+h1 {
+font-family: 'Montserrat-Black', sans-serif;
+font-size: 2.5em;
+line-height: 1.5;
+font-weight: bold;
+}
+
+#title .container-fluid {
+  padding: 5% 12%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu',sans-serif;
+  font-size: 2.3em;
+  font-weight: bold;
+}
+.navbar{
+  padding: 0 0 4.5em;
+}
+.nav-item {
+  padding: 0 18px;
+  font-size: 1.2em;
+}
+.btt {
+  margin: 5% 3% 5% 0;
+}
+.social-icon {
+  margin: 20px 10px;
+}
+#footer{
+  text-align: center;
+  margin-top: 2%;
+}
