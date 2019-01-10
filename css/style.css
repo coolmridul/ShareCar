@@ -5,6 +5,15 @@
 body{
   font-family: 'Montserrat',sans-serif;
 }
+p{
+  color: #8f8f8f;
+}
+h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+.icon {
+  margin-bottom: 1rem;
+}
 
 h1 {
 font-family: 'Montserrat-Black', sans-serif;
@@ -37,5 +46,18 @@ font-weight: bold;
 }
 #footer{
   text-align: center;
-  margin-top: 2%;
+  background-color: #ef8172;
+  height: 100%;
+  padding: 5% 12%;
+}
+#use {
+  text-align: center;
+}
+#use .container-fluid {
+  padding: 5% 12%;
+}
+.usele {
+  padding: 5%;
+  line-height: 2;
+  font-size: 1.3em;
 }
